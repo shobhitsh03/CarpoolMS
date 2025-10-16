@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "from": "Downtown",
+    "to": "Tech Park",
+    "date": "2025-10-10",
+    "seats": 3,
+    "driver": "Aamir Khan",
+    "price": "₹120"
+  },
+  {
+    "id": 2,
+    "from": "Central Mall",
+    "to": "Airport",
+    "date": "2025-10-11",
+    "seats": 2,
+    "driver": "Digvijay Rathee",
+    "price": "₹200"
+  },
+  {
+    "id": 3,
+    "from": "City Center",
+    "to": "University",
+    "date": "2025-10-10",
+    "seats": 4,
+    "driver": "Shahrukh Khan",
+    "price": "₹80"
+  },
+  {
+    "id": 4,
+    "from": "Tech Park",
+    "to": "Downtown",
+    "date": "2025-10-12",
+    "seats": 1,
+    "driver": "Salman Khan",
+    "price": "₹150"
+  }
+]
